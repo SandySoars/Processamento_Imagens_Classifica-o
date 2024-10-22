@@ -1,7 +1,7 @@
 Descrição do Projeto:
 O projeto consiste em treinar um modelo de machine learning para classificação de objetos utilizando a plataforma Teachable Machine. O modelo será treinado com 5 diferentes classes de objetos, e, após o treinamento, será exportado no formato labes.Txt e keras.model.h5 para uso em um código Python. No ambiente Python, o modelo será aplicado para classificar os 5 objetos que aprecerão na filmagem e, em seguida, será realizada a verificação da acurácia, comparando as previsões feitas com as classes reais dos objetos. O objetivo final é avaliar o desempenho do modelo, calculando o percentual de acertos das classificações.
 
-Instruções de Innstalação:
+Instruções de Instalação:
 Após o treinamento do modelo no Teachable Machine, exporte os arquivos labels.txt e keras_model.h5, que contêm, respectivamente, os rótulos das classes e o modelo treinado. Esses arquivos devem ser salvos na mesma pasta onde estará o código Python que será usado para carregar o modelo e realizar a classificação de objetos. Certifique-se de que ambos os arquivos estejam no mesmo diretório que o código, para garantir que o Python possa acessá-los corretamente durante a execução.
 
 Instruções de Uso:
