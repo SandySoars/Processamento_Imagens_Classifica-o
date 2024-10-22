@@ -1,0 +1,5 @@
+0 calculadora
+1 caneta
+2 mouse
+3 prato
+4 bloco de notas
